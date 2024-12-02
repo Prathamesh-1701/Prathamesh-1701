@@ -1,6 +1,6 @@
 # 🌟 Welcome to PD's GitHub Profile!
 
-![Header](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)![Header](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Header](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 Hi there! 👋 I'm **Prathamesh**, a passionate **Computer Science student** diving deep into the world of **technology** and **problem-solving**. Here's a glimpse of my journey, skills, and ongoing projects. 🚀
 
